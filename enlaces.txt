@@ -6,6 +6,8 @@ crear: ejercicio1.js
 npm run dev  
 (visitar localhost:3000/ejercicio1)
 
+prueba
+
 ejercicio1: https://youtu.be/00AkMN9IAAY
 
 
