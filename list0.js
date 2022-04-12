@@ -10,7 +10,7 @@ export default function List({ownersList}) {
   //     setOwners(ownersList);
   //   }
 
-  //   loadData();
+  //   loadData();  PROBANDO
   // }, []);
   
   return (
